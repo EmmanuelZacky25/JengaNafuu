@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://emmanuelzacky25.github.io/JengaNafuu/sitemap.xml
+Sitemap: https://jenganafuudodoma.com/sitemap.xml
